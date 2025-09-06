@@ -1,0 +1,39 @@
+Nurse Assign: Owais Ali
+Doctor: Ali Khan
+Shift: Morning
+---------------------
+
+Nurse Assign: Ayesha Khan
+Doctor: Sara Ahmed
+Shift: Evening
+---------------------
+
+Nurse Assign: Hamza Sheikh
+Doctor: Bilal Hussain
+Shift: Night
+---------------------
+
+Nurse Assign: Rabia Akhtar
+Doctor: Ayesha Siddiqui
+Shift: Morning
+---------------------
+
+Nurse Assign: Imran Ali
+Doctor: Usman Rauf
+Shift: Evening
+---------------------
+
+Nurse Assign: Nadia Farooq
+Doctor: Maria Khan
+Shift: Night
+---------------------
+
+Nurse Assign: Saad Khan
+Doctor: Imran Shah
+Shift: Morning
+---------------------
+
+Nurse Assign: Mahnoor Zafar
+Doctor: Hina Malik
+Shift: Evening
+---------------------

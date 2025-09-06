@@ -1,0 +1,28 @@
+Name: Sudais Khan
+Age: 67
+Disease: Flu
+Room No: 6
+Status: Discharge
+-----------------------------------
+
+Name: Hamza Sheikh
+Age: 24
+Disease: Malaria
+Room No: 7
+Status: Admitted
+-----------------------------------
+
+Name: Rabia Akhtar
+Age: 31
+Disease: Kidney Infection
+Room No: 8
+Status: Discharge
+-----------------------------------
+
+Name: Imran Ali
+Age: 55
+Disease: Hypertension
+Room No: 9
+Status: Admitted
+-----------------------------------
+Status: Available

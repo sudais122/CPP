@@ -1,0 +1,34 @@
+Name: Ayesha Khan
+Age: 28
+Disease: Pneumonia
+Room No: 13
+Status: Admitted
+-----------------------------------
+
+Name: Bilal Hussain
+Age: 60
+Disease: Diabetes
+Room No: 14
+Status: Admitted
+-----------------------------------
+
+Name: Nadia Farooq
+Age: 33
+Disease: Tuberculosis
+Room No: 15
+Status: Admitted
+-----------------------------------
+
+Name: Usman Rauf
+Age: 45
+Disease: Heart Disease
+Room No: 16
+Status: Admitted
+-----------------------------------
+
+Name: Maria Khan
+Age: 22
+Disease: Dengue Fever
+Room No: 17
+Status: Admitted
+-----------------------------------

@@ -1,0 +1,56 @@
+Account Number: 35205
+Name: Ali Khan
+Account Type: Saving
+Initial Deposite: 13000
+Current Balance: 17500
+_______________________________________
+Account Number: 84713
+Name: Sara Ahmed
+Account Type: Current
+Initial Deposite: 25000
+_______________________________________
+Account Number: 19284
+Name: Usman Tariq
+Account Type: Saving
+Initial Deposite: 10000
+Current Balance: 8900
+_______________________________________
+Account Number: 50921
+Name: Ayesha Khan
+Account Type: Current
+Initial Deposite: 30000
+Current Balance: 36000
+_______________________________________
+Account Number: 67430
+Name: Imran Raza
+Account Type: Saving
+Initial Deposite: 8000
+_______________________________________
+Account Number: 12895
+Name: Zara Fatima
+Account Type: Current
+Initial Deposite: 20000
+Current Balance: 21300
+_______________________________________
+Account Number: 31582
+Name: Hamza Ali
+Account Type: Saving
+Initial Deposite: 5000
+_______________________________________
+Account Number: 73619
+Name: Mariam Iqbal
+Account Type: Saving
+Initial Deposite: 18000
+Current Balance: 18400
+_______________________________________
+Account Number: 48623
+Name: Fahad Mehmood
+Account Type: Current
+Initial Deposite: 22000
+_______________________________________
+Account Number: 90234
+Name: Noor Javed
+Account Type: Saving
+Initial Deposite: 12000
+Current Balance: 15000
+_______________________________________

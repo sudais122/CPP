@@ -1,0 +1,29 @@
+--------------------
+Roll No:2
+Name: Mehboob Ali
+Total Marks: 284
+Average: 94
+Percentage: 94.67%
+Grade: A
+--------------------
+Roll No:4
+Name: Bilal Ahmad
+Total Marks: 257
+Average: 85
+Percentage: 85.67%
+Grade: B
+--------------------
+Roll No:126
+Name: ibad ali
+Total Marks: 377
+Average: 125
+Percentage: 125.67%
+Grade: A
+--------------------
+Roll No:931357
+Name: Sudais
+Total Marks: 284
+Average: 94
+Percentage: 94.67%
+Grade: A
+--------------------

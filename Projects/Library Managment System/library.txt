@@ -1,0 +1,44 @@
+Book ID: 1001
+Auther: Andrew Hunt
+Status: Issued
+---------------------------
+Tittle: Elements of Reusable Object-Oriented Software
+Book ID: 1002
+Auther: Erich Gamma
+Status: Available
+---------------------------
+Tittle: Improving the Design of Existing Code
+Book ID: 1003
+Auther: Martin Fowler
+Status: Available
+---------------------------
+Tittle: You Don’t Know JS: Scope & Closures
+Book ID: 1004
+Auther: Kyle Simpson
+Status: Issued
+---------------------------
+Tittle: Introduction to the Theory of Computation
+Book ID: 1005
+Auther: Michael Sipser
+Status: Available
+---------------------------
+Tittle: Cracking the Coding Interview
+Book ID: 1006
+Auther: Gayle Laakmann McDowell
+Status: Available
+---------------------------
+Tittle: JavaScript: The Good Parts
+Book ID: 1007
+Auther: Douglas Crockford
+Status: Issued
+---------------------------
+Tittle: Head First Design Patterns
+Book ID: 1008
+Auther: Eric Freeman
+Status: Available
+---------------------------
+Tittle: Programming Pearls
+Book ID: 1009
+Auther: Jon Bentley
+Status: Available
+---------------------------

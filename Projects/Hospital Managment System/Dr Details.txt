@@ -1,0 +1,88 @@
+Doctor Name: Ali Khan
+Specialization: Medical Specialist
+Qualification: MBBS, KMU (Peshawar)
+Years of Experience: 4
+Phone Number: 123456789
+Email: ali12@gmail.com
+Schedule: Sat 8am-9pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Sara Ahmed
+Specialization: Cardiologist
+Qualification: MBBS, FCPS (Cardiology)
+Years of Experience: 10
+Phone Number: 03211234567
+Email: sara.ahmed@hospital.com
+Schedule: Mon-Fri 9am-2pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Bilal Hussain
+Specialization: Orthopedic Surgeon
+Qualification: MBBS, MS (Orthopedics)
+Years of Experience: 7
+Phone Number: 03005551234
+Email: bilal.h@hospital.com
+Schedule: Tue-Thu 3pm-8pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Ayesha Siddiqui
+Specialization: Pediatrician
+Qualification: MBBS, DCH (Children Health)
+Years of Experience: 6
+Phone Number: 03334445555
+Email: ayesha.siddiqui@hospital.com
+Schedule: Mon-Sat 10am-4pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Usman Rauf
+Specialization: Neurologist
+Qualification: MBBS, MD (Neurology)
+Years of Experience: 12
+Phone Number: 03457778899
+Email: usman.rauf@hospital.com
+Schedule: Mon-Fri 11am-6pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Maria Khan
+Specialization: Gynecologist
+Qualification: MBBS, FCPS (Gynecology)
+Years of Experience: 9
+Phone Number: 03127778888
+Email: maria.khan@hospital.com
+Schedule: Mon-Fri 9am-1pm, Sat 10am-12pm
+Status: Active
+---------------------------------------------
+
+Doctor Name: Imran Shah
+Specialization: Dermatologist
+Qualification: MBBS, MCPS (Dermatology)
+Years of Experience: 5
+Phone Number: 03019997777
+Email: imran.shah@hospital.com
+Schedule: Wed-Fri 2pm-6pm
+Status: On Leave
+---------------------------------------------
+
+Doctor Name: Hina Malik
+Specialization: General Surgeon
+Qualification: MBBS, MS (Surgery)
+Years of Experience: 8
+Phone Number: 03001231234
+Email: hina.malik@hospital.com
+Schedule: Mon-Fri 8am-2pm
+Status: Active
+---------------------------------------------
+Doctor Name: Kamran Ali
+Specialization: Radiologist
+Qualification: MBBS, FCPS (Radiology)
+Years of Experience: 11
+Phone Number: 03219998877
+Email: kamran.ali@hospital.com
+Shedule: Mon-Sat 9am-5pm
+Status: Active
+---------------------------------------------

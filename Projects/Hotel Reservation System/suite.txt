@@ -1,0 +1,69 @@
+Room Number: 41
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Available
+_____________________________________
+
+Room Number: 42
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Available
+_____________________________________
+
+Room Number: 43
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Available
+_____________________________________
+
+Room Number: 44
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Available
+_____________________________________
+
+Room Number: 45
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Available
+_____________________________________
+
+Room Number: 46
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Booked
+_____________________________________
+
+Room Number: 47
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Booked
+_____________________________________
+
+Room Number: 48
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Booked
+_____________________________________
+
+Room Number: 49
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Booked
+_____________________________________
+
+Room Number: 50
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Status: Booked
+_____________________________________

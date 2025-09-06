@@ -1,0 +1,12 @@
+Name: Ali Akbar
+Age: 29
+Disease: Malaria
+Room No:  18
+status: Admitted
+Vitals Details:
+   Temperature: 13
+   BP: 231
+   HR: 322
+   Respiration: 123
+   SO: : 123
+-----------------------------------

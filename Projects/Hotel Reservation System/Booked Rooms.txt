@@ -1,0 +1,321 @@
+
+Room Number: 1
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Ali Khan
+Contact: 0301-4521789
+CNIC: 35201-2345678-9
+Total Nights: 3
+No of Guests: 1
+Check In Date: 02/04/2025
+Check Out Date: 05/04/2025
+Total Cost: 15000
+-----------------
+
+Room Number: 3
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Sara Ahmed
+Contact: 0321-9854721
+CNIC: 61101-4567890-1
+Total Nights: 2
+No of Guests: 1
+Check In Date: 10/04/2025
+Check Out Date: 12/04/2025
+Total Cost: 10000
+-----------------
+
+Room Number: 11
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Hamza Tariq
+Contact: 0302-7745123
+CNIC: 37405-9876543-2
+Total Nights: 1
+No of Guests: 1
+Check In Date: 20/04/2025
+Check Out Date: 21/04/2025
+Total Cost: 5000
+----------------
+
+Room Number: 12
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Ayesha Noor
+Contact: 0345-1239087
+CNIC: 42201-4567891-4
+Total Nights: 5
+No of Guests: 1
+Check In Date: 25/04/2025
+Check Out Date: 30/04/2025
+Total Cost: 25000
+-----------------
+
+Room Number: 13
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Imran Sheikh
+Contact: 0301-5678912
+CNIC: 35203-2345678-4
+Total Nights: 2
+No of Guests: 1
+Check In Date: 01/05/2025
+Check Out Date: 03/05/2025
+Total Cost: 10000
+-----------------
+
+Room Number: 14
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Bilal Hussain
+Contact: 0322-4789512
+CNIC: 61102-3456789-1
+Total Nights: 6
+No of Guests: 1
+Check In Date: 05/05/2025
+Check Out Date: 11/05/2025
+Total Cost: 30000
+-----------------
+
+Room Number: 15
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Kashif Ali
+Contact: 0334-5567890
+CNIC: 37406-4567890-1
+Total Nights: 4
+No of Guests: 1
+Check In Date: 15/05/2025
+Check Out Date: 19/05/2025
+Total Cost: 20000
+-----------------
+
+Room Number: 16
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Maria Khan
+Contact: 0309-7891234
+CNIC: 42202-1234567-2
+Total Nights: 2
+No of Guests: 1
+Check In Date: 22/05/2025
+Check Out Date: 24/05/2025
+Total Cost: 10000
+-----------------
+
+Room Number: 17
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Saad Rehman
+Contact: 0311-9988776
+CNIC: 35204-4567891-3
+Total Nights: 3
+No of Guests: 1
+Check In Date: 28/05/2025
+Check Out Date: 31/05/2025
+Total Cost: 15000
+-----------------
+
+Room Number: 18
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Nida Farooq
+Contact: 0320-5566778
+CNIC: 61103-3456789-2
+Total Nights: 7
+No of Guests: 1
+Check In Date: 01/06/2025
+Check Out Date: 08/06/2025
+Total Cost: 35000
+-----------------
+Room Number: 20
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Name: Mahnoor Fatima
+Contact: 0342-8899001
+CNIC: 42203-1234567-3
+Total Nights: 5
+No of Guests: 1
+Check In Date: 15/06/2025
+Check Out Date: 20/06/2025
+Total Cost: 25000
+-----------------
+
+Room Number: 31
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Waleed Akram
+Contact: 0308-4455123
+CNIC: 35205-3456789-4
+Total Nights: 3
+No of Guests: 2
+Check In Date: 02/07/2025
+Check Out Date: 05/07/2025
+Total Cost: 24000
+-----------------
+
+Room Number: 32
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Zoya Malik
+Contact: 0321-7744112
+CNIC: 61104-4567890-2
+Total Nights: 4
+No of Guests: 2
+Check In Date: 07/07/2025
+Check Out Date: 11/07/2025
+Total Cost: 32000
+-----------------
+
+Room Number: 33
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Danish Khan
+Contact: 0305-9988775
+CNIC: 37408-3456789-3
+Total Nights: 2
+No of Guests: 2
+Check In Date: 15/07/2025
+Check Out Date: 17/07/2025
+Total Cost: 16000
+-----------------
+
+Room Number: 34
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Noor Hassan
+Contact: 0332-6677889
+CNIC: 42204-1234567-4
+Total Nights: 6
+No of Guests: 2
+Check In Date: 20/07/2025
+Check Out Date: 26/07/2025
+Total Cost: 48000
+-----------------
+
+Room Number: 35
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Hammad Iqbal
+Contact: 0315-8899002
+CNIC: 35206-2345678-6
+Total Nights: 5
+No of Guests: 2
+Check In Date: 28/07/2025
+Check Out Date: 02/08/2025
+Total Cost: 40000
+-----------------
+
+Room Number: 36
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Sana Javed
+Contact: 0309-1234455
+CNIC: 61105-4567890-3
+Total Nights: 2
+No of Guests: 2
+Check In Date: 05/08/2025
+Check Out Date: 07/08/2025
+Total Cost: 16000
+-----------------
+
+Room Number: 38
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Fizza Anwar
+Contact: 0312-8877990
+CNIC: 42205-1234567-5
+Total Nights: 4
+No of Guests: 2
+Check In Date: 15/08/2025
+Check Out Date: 19/08/2025
+Total Cost: 32000
+-----------------
+
+Room Number: 39
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Haris Latif
+Contact: 0300-4455667
+CNIC: 35207-2345678-7
+Total Nights: 1
+No of Guests: 2
+Check In Date: 21/08/2025
+Check Out Date: 22/08/2025
+Total Cost: 8000
+----------------
+
+Room Number: 40
+Room Type: Double
+Price per Night (PKR): 8000
+Description: Two beds, suitable for 2 adults or a small family.
+Name: Fatima Ali
+Contact: 0320-4455778
+CNIC: 61106-4567890-4
+Total Nights: 7
+No of Guests: 3
+Check In Date: 25/08/2025
+Check Out Date: 01/09/2025
+Total Cost: 56000
+-----------------
+
+Room Number: 46
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Name: Salman Haider
+Contact: 0335-6677889
+CNIC: 37410-3456789-5
+Total Nights: 3
+No of Guests: 2
+Check In Date: 05/09/2025
+Check Out Date: 08/09/2025
+Total Cost: 45000
+-----------------
+
+Room Number: 47
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Name: Shazia Akhtar
+Contact: 0341-2233445
+CNIC: 42206-1234567-6
+Total Nights: 5
+No of Guests: 3
+Check In Date: 10/09/2025
+Check Out Date: 15/09/2025
+Total Cost: 75000
+-----------------
+
+Room Type: Suite
+Price per Night (PKR): 15000
+Description: Luxury room with extra space, premium amenities, and a beautiful view.
+Name: Laiba Shah
+Contact: 0325-7788990
+CNIC: 61107-4567890-5
+Total Nights: 4
+No of Guests: 3
+Check In Date: 25/09/2025
+Check Out Date: 29/09/2025
+Total Cost: 60000
+-----------------
+

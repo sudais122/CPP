@@ -1,0 +1,56 @@
+Name: Owais Ali
+Age: 21
+Gender: M
+Phone: 1234678
+Qualifaction: BSN
+Assign Doctor: Maria Khan
+-----------------------------------
+Name: Ayesha Khan
+Age: 24
+Gender: F
+Phone: 03014567891
+Qualifaction: BSN
+Assign Doctor: Ahmed Raza
+-----------------------------------
+Name: Hamza Sheikh
+Age: 25
+Gender: M
+Phone: 03451239876
+Qualifaction: RN
+Assign Doctor: Zoya Khan
+-----------------------------------
+Name: Rabia Akhtar
+Age: 29
+Gender: F
+Phone: 03029874561
+Qualifaction: BSN
+Assign Doctor: Salman Iqbal
+-----------------------------------
+Name: Imran Ali
+Age: 26
+Gender: M
+Phone: 03346781234
+Qualifaction: Diploma in Nursing
+Assign Doctor: Hina Shah
+-----------------------------------
+Name: Nadia Farooq
+Age: 22
+Gender: F
+Phone: 03016789452
+Qualifaction: BSN
+Assign Doctor: Ali Haider
+-----------------------------------
+Name: Saad Khan
+Age: 28
+Gender: M
+Phone: 03146782390
+Qualifaction: RN
+Assign Doctor: Farah Javed
+-----------------------------------
+Name: Mahnoor Zafar
+Age: 24
+Gender: F
+Phone: 03246789123
+Qualifaction: BSN
+Assign Doctor: Kamran Siddiqui
+-----------------------------------

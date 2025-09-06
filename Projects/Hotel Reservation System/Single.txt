@@ -1,0 +1,139 @@
+Room Number: 1
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 2
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 3
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 4
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 5
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 6
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 7
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 8
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 9
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 10
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Available
+_____________________________________
+
+Room Number: 11
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 12
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 13
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 14
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 15
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 16
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 17
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 18
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 19
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________
+
+Room Number: 20
+Room Type: Single
+Price per Night (PKR): 5000
+Description: One bed, suitable for 1 adult.
+Status: Booked
+_____________________________________

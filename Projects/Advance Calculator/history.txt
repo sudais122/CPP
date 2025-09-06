@@ -1,0 +1,15 @@
+ Result:  57
+ Result:  9
+5raise to the power3= 125
+---------------------Square root of 256is16
+---------------------Area of Triangle 224
+---------------------
+Area of Circle3629
+---------------------
+---------------------
+Perimeter of Circle 144
+---------------------
+Perimeter of Triangle: 19
+---------------------
+Middle value (average of two): 3.5
+---------------------

@@ -1,0 +1,37 @@
+
+Name: Mahnoor Zafar
+Age: 40
+Disease: Asthma
+Room No: 10
+Status: Admitted
+   Temperature: 12
+   BP: 34
+   HR: 242
+   Respiration: 4
+   SO: : 3
+-----------------------------------
+
+Name: Saad Khan
+Age: 19
+Disease: Typhoid
+Room No: 11
+Status: Discharge
+Vitals Details:
+   Temperature: 88
+   BP: 120/23
+   HR: 83
+   Respiration: 23
+   SO: : 45
+   Temperature: 65
+   BP: 23/234
+   HR: 23
+   Respiration: 34
+   SO: : 94
+-----------------------------------
+
+Name: Hina Malik
+Age: 46
+Disease: Liver Disease
+Room No: 12
+Status: Admitted
+-----------------------------------

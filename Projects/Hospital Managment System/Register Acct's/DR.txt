@@ -1,0 +1,20 @@
+Full Name: Kamran Ali
+Email: kamran@gmail.com
+Username: kami
+Password: 12345
+--------------------------------
+Full Name: Imran Shah
+Email: imran@hospital.com
+Username: imran
+Password: 12345
+--------------------------------
+Full Name: Bilal Hussain
+Email: bilal.h@hospital.com
+Username: bilal245
+Password: 9876
+--------------------------------
+Full Name: Umar Rauf
+Email: usman.rauf@hospital.com
+Username: umaro09
+Password: 9876
+--------------------------------

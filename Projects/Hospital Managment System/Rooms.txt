@@ -1,0 +1,249 @@
+Room Number: 1
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 2
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 3
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 4
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 5
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 6
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 7
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 8
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 9
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 10
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 11
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 12
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 13
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 14
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 15
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 16
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 17
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 18
+Price per Night: 5000
+Status: Booked
+---------------------
+
+Room Number: 19
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 20
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 21
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 22
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 23
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 24
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 25
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 26
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 27
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 28
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 29
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 30
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 31
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 32
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 33
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 34
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 35
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 36
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 37
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 38
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 39
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 40
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 41
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 42
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 43
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 44
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 45
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 46
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 47
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 48
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 49
+Price per Night: 5000
+Status: Available
+---------------------
+
+Room Number: 50
+Price per Night: 5999
+Status: Available
+---------------------

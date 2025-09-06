@@ -1,0 +1,196 @@
+Name: Mehboob Ali
+Age: 20
+Gender: Male
+Phone Number: 03012345678
+Email: mehboob@gmail.com
+Disease: Typhoid
+Admitted Room No: 1
+Doctor Assign: Ali Khan
+Status: Discharge
+-----------------------------------
+Name: Ayesha Khan
+Age: 20
+Gender: Female
+Phone Number: 03012345678
+Email: yesha@gmail.com
+Disease: Pneumonia
+Admitted Room No: 2
+Doctor Assign: Ali Khan
+Status: Admitted
+-----------------------------------
+
+Name: Hamza Sheikh
+Age: 32
+Gender: Male
+Phone Number: 03023456789
+Email: hamza@gmail.com
+Disease: Malaria
+Admitted Room No: 3
+Doctor Assign: Ali Khan
+Status: Admitted
+-----------------------------------
+
+Name: Rabia Akhtar
+Age: 29
+Gender: Female
+Phone Number: 03034567890
+Email: rabia@gmail.com
+Disease: Asthma
+Admitted Room No: 4
+Doctor Assign: Ali Khan
+Status: Discharge
+-----------------------------------
+
+Name: Imran Ali
+Age: 40
+Gender: Male
+Phone Number: 03045678901
+Email: imran@gmail.com
+Disease: Kidney Stone
+Admitted Room No: 5
+Doctor Assign: Ali Khan
+Status: Admitted
+-----------------------------------
+
+Name: Sudais Khan
+Age: 67
+Gender: Male
+Phone Number: 03056789012
+Email: sudais@gmail.com
+Disease: Flu
+Admitted Room No: 6
+Doctor Assign: Ali Khan
+Status: Admitted
+-----------------------------------
+
+Name: Mahnoor Zafar
+Age: 21
+Gender: Female
+Phone Number: 03067890123
+Email: mahnoor@gmail.com
+Disease: Anemia
+Admitted Room No: 7
+Doctor Assign: Hina Malik
+Status: Admitted
+-----------------------------------
+
+Name: Saad Khan
+Age: 37
+Gender: Male
+Phone Number: 03078901234
+Email: saad@gmail.com
+Disease: Liver Infection
+Admitted Room No: 8
+Doctor Assign: Hina Malik
+Status: Discharge
+-----------------------------------
+
+Name: Hina Malik
+Age: 30
+Gender: Female
+Phone Number: 03089012345
+Email: hina@gmail.com
+Disease: High Blood Pressure
+Admitted Room No: 9
+Doctor Assign: Hina Malik
+Status: Admitted
+-----------------------------------
+
+Name: Bilal Hussain
+Age: 60
+Gender: Male
+Phone Number: 03090123456
+Email: bilal@gmail.com
+Disease: Diabetes
+Admitted Room No: 10
+Doctor Assign: Imran Shah
+Status: Admitted
+-----------------------------------
+
+Name: Nadia Farooq
+Age: 33
+Gender: Female
+Phone Number: 03101234567
+Email: nadia@gmail.com
+Disease: Tuberculosis
+Admitted Room No: 11
+Doctor Assign: Imran Shah
+Status: Admitted
+-----------------------------------
+
+Name: Usman Rauf
+Age: 45
+Gender: Male
+Phone Number: 03112345678
+Email: usman@gmail.com
+Disease: Heart Disease
+Admitted Room No: 12
+Doctor Assign: Imran Shah
+Status: Admitted
+-----------------------------------
+
+Name: Maria Khan
+Age: 22
+Gender: Female
+Phone Number: 03123456789
+Email: maria@gmail.com
+Disease: Dengue Fever
+Admitted Room No: 13
+Doctor Assign: Kamran Ali
+Status: Admitted
+-----------------------------------
+
+Name: Ayesha Khan
+Age: 28
+Gender: Female
+Phone Number: 03134567890
+Email: ayeshak@gmail.com
+Disease: Pneumonia
+Admitted Room No: 14
+Doctor Assign: Kamran Ali
+Status: Admitted
+-----------------------------------
+
+Name: Hassan Raza
+Age: 50
+Gender: Male
+Phone Number: 03145678901
+Email: hassan@gmail.com
+Disease: Stroke
+Admitted Room No: 15
+Doctor Assign: Kamran Ali
+Status: Admitted
+-----------------------------------
+
+Name: Zainab Ali
+Age: 26
+Gender: Female
+Phone Number: 03156789012
+Email: zainab@gmail.com
+Disease: Kidney Failure
+Admitted Room No: 16
+Doctor Assign: Kamran Ali
+Status: Admitted
+-----------------------------------
+
+Name: Kamran Javed
+Age: 55
+Gender: Male
+Phone Number: 03167890123
+Email: kamranj@gmail.com
+Disease: Cancer
+Admitted Room No: 17
+Doctor Assign: Kamran Ali
+Status: Admitted
+-----------------------------------
+
+Name: Ali Akbar
+Age: 29
+Gender: Male
+Phone Number: 123456
+Email: ali2@outlook.com
+Disease: Malaria
+Admitted Room No: 18
+Doctor Assign: Sara Ahmed
+Status: Admitted
+-----------------------------------

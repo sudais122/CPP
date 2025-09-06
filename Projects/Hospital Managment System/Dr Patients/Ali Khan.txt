@@ -1,0 +1,42 @@
+Name: Mehboob Ali
+Age: 20
+Disease: COVID-19
+Room No: 1
+Status: Discharge
+-----------------------------------
+
+Name: Ayesha Khan
+Age: 35
+Disease: Pneumonia
+Room No: 2
+Status: Admitted
+-----------------------------------
+
+Name: Bilal Hussain
+Age: 42
+Disease: Dengue Fever
+Room No: 3
+Status: Admitted
+-----------------------------------
+
+Name: Sara Ahmed
+Age: 29
+Disease: Appendicitis
+Room No: 4
+Status: Admitted
+-----------------------------------
+
+Name: Usman Rauf
+Age: 50
+Disease: Diabetes (Uncontrolled)
+Room No: 5
+Status: Admitted
+-----------------------------------
+
+Name: Nadia Farooq
+Age: 60
+Disease: Heart Disease
+Room No: 6
+Status: Admitted
+-----------------------------------
+

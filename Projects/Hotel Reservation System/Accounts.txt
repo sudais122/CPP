@@ -1,0 +1,60 @@
+Name: Ali Khan
+Username: ali123
+Password: 1234
+Email: ali.khan@email.com
+---------------------------
+Name: Muhammad Sudais
+Username: sud123
+Password: 1234
+Email: sudais@yahoo.com
+---------------------------
+Name: Ayesha Ahmed
+Username: ayesha99
+Password: 2345
+Email: ayesha.ahmed@gmail.com
+---------------------------
+Name: Sara Khan
+Username: sarakhan77
+Password: 3456
+Email: sara.khan@hotmail.com
+---------------------------
+Name: Hamza Ali
+Username: hamza001
+Password: 4567
+Email: hamza.ali@gmail.com
+---------------------------
+Name: Fatima Noor
+Username: fatima88
+Password: 5678
+Email: fatima.noor@yahoo.com
+---------------------------
+Name: Bilal Qureshi
+Username: bilalq
+Password: 6789
+Email: bilal.qureshi@gmail.com
+---------------------------
+Name: Omar Farooq
+Username: omarf
+Password: 8901
+Email: omar.farooq@gmail.com
+---------------------------
+Name: Zoya Iqbal
+Username: zoyaiq
+Password: 9012
+Email: zoya.iqbal@yahoo.com
+---------------------------
+Name: Ahmed Raza
+Username: ahmedr
+Password: 1122
+Email: ahmed.raza@gmail.com
+---------------------------
+Name: Nadia Khan
+Username: nadiak
+Password: 2233
+Email: nadia.khan@hotmail.com
+---------------------------
+Name: Salman Shah
+Username: salman123
+Password: 3344
+Email: salman.shah@gmail.com
+---------------------------
