@@ -17,17 +17,3 @@ It serves as a personal archive of my progress as I work towards becoming a prof
   A collection of C++ solutions to LeetCode problems for strengthening problem-solving and data structure skills.
 
 ---
-
-## 🛠️ Technologies & Tools
-
-- **Language:** C++  
-- **IDE/Editor:** VS Code / CLion / (your editor of choice)  
-- **Version Control:** Git & GitHub  
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
