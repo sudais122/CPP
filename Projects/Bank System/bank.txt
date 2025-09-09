@@ -54,3 +54,9 @@ Account Type: Saving
 Initial Deposite: 12000
 Current Balance: 15000
 _______________________________________
+Account Number: 21626
+Name: Muhammad Sudais
+Account Type: Current
+Initial Deposite: 10000
+Current Balance: 11200
+_______________________________________
