@@ -26,7 +26,7 @@ void rotate()
     
     
 
-//     Rotate by 1 → [7,1,2,3,4,5,6]
+//Rotate by 1 → [7,1,2,3,4,5,6]
 
 // Rotate by 2 → [6,7,1,2,3,4,5]
 
